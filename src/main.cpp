@@ -1,4 +1,4 @@
-#include "natasha/array2d.h"
+#include "natasha/array.h"
 
 #include "natasha.h"
 
